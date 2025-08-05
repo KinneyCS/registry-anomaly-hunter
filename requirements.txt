@@ -1,0 +1,5 @@
+python-registry
+reportlab
+requests
+watchdog
+apscheduler
